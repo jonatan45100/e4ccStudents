@@ -1,0 +1,90 @@
+a {
+  text-decoration: none;
+  font-family: 'Fredoka', sans-serif;
+  color: #42C2FF;
+}
+
+body {
+  margin: 0;
+}
+
+.divHeader {
+  background-color: #EFFFFD;
+  padding: 1rem;
+  text-align: right;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.divMiddle {
+  background-color: #B8FFF9;
+  border-bottom: 0;
+  border-color: #42C2FF;
+  border-left: 0;
+  border-right: 0;
+  border-style: solid;
+  padding: 4rem;
+  text-align: center;
+}
+
+.divTop {
+  background-color: #EFFFFD;
+  margin-top: 3.75vw;
+  padding: 1vw;
+  text-align: center;
+}
+
+.h1Font {
+  color: #42C2FF;
+  font-family: 'Sacramento', cursive;
+  font-size: 6vw;
+  margin-top: 0;
+}
+
+.header-img {
+  height: 2rem;
+  width: 2rem;
+  margin-left: 1rem;
+  position: absolute;
+  left: 0;
+}
+
+.headerOptions {
+  display: inline;
+  padding: 0 1rem 0 1rem;
+}
+
+.pFont1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3vw;
+  margin-bottom: 6vw;
+  color: #42C2FF;
+}
+
+.pFont2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2vw;
+  margin-bottom: 6vw;
+  color: #42C2FF;
+}
+
+.starBottom {
+  position: absolute;
+  left: 21.86vw;
+}
+
+.starTop {
+  position: absolute;
+  right: 21.86vw;
+}
+
+.whatsappClass {
+  color: #42C2FF;
+  font-family: 'Fredoka', sans-serif;
+  left: 0;
+  margin-top: 0;
+  position: absolute;
+  margin-left: 3.75rem;
+}
